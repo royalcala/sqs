@@ -1,0 +1,16 @@
+{
+  "name": "sqsnodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "listQueues": "node listQueues.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@aws-sdk/client-sqs": "^3.100.0",
+    "dotenv": "^16.0.1"
+  }
+}
