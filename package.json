@@ -4,7 +4,11 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "listQueues": "node listQueues.js"
+    "listQueues": "node listQueues.js",
+    "getQueueAttributes": "node getQueueAttributes",
+    "sendMessage": "node sendMessage",
+    "receiveMessage": "node receiveMessage",
+    "deleteMessage": "node deleteMessage"
   },
   "keywords": [],
   "author": "",
